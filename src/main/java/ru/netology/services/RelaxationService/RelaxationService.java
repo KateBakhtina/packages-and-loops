@@ -1,4 +1,4 @@
-package ru.netology.services;
+package ru.netology.services.RelaxationService;
 
 public class RelaxationService {
     public int relaxCalculation(int income, int expense, int threshold) {
